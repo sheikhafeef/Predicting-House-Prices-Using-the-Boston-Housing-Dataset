@@ -94,6 +94,7 @@ Ensures reproducibility with random_state=42
 
 >Model Implementations:
 
+
 >inear Regression:
 
 Implements Gradient Descent
